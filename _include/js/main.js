@@ -78,7 +78,7 @@ CHAKRA.slider = function(){
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
 											{image : 'happysubway.jpg', title : 'Welcome to Urban Engines', thumb : '', url : ''},
-											{image : 'happywomanbus2.jpg', title :'Making Every Trip Better', thumb : '', url : ''},
+											{image : 'happywomanbus.jpg', title :'Making Every Trip Better', thumb : '', url : ''},
 											{image : 'happystreet.jpg', title : 'For Every Person', thumb : '', url : ''},
 											{image : 'happycar.jpg', title : 'Every Day', thumb : '', url : ''}  
 									],
